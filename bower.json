@@ -1,0 +1,14 @@
+{
+  "name": "PAUnit",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Noah-Huppert/PA-Unit",
+  "authors": [
+    "Noah Huppert <noahhuppert@gmail.com>"
+  ],
+  "description": "A unit test framework for PA",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jasmine": "~2.1.3"
+  }
+}

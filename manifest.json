@@ -1,0 +1,38 @@
+{
+  "name": "PAUnit",
+  "description": "A unit test framework for PA",
+  "version": "0.0.1",
+  "manifests": {
+    "bower": "bower.json",
+    "npm": "package.json",
+    "modinfo": {
+      "_dest": "build/modinfo.json",
+      "_ignore": ["name", "description"],
+      "context": "client",
+      "identifier": "com.noahhuppert.pa.PAUnit",
+      "display_name": "PA Unit",
+      "description": "A unit test framework for PA",
+      "author": "someonewhoisnobody",
+      "build": "75740",
+      "date": "2014/12/10",
+      "signature": "not yet implemented",
+      "forum": "TODO",
+      "category": [
+        "in-game",
+        "ui",
+        "framework",
+        "unit test",
+        "test"
+      ],
+      "id": "com.noahhuppert.pa.PAUnit",
+      "priority": 100,
+      "scenes": {
+        "global_mod_list ": [
+          "coui://ui/mods/com.noahhuppert.pa.PAUnit/PAUnitInject.js"
+        ]
+      },
+      "requires": [],
+      "enabled": true
+    }
+  }
+}

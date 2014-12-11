@@ -1,0 +1,8 @@
+#Npm Packages
+node_modules
+
+#Bower dependencies
+libs
+
+#Build
+build
